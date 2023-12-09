@@ -1,0 +1,8 @@
+print ("Welcome to Mad Libs!")
+noun = input("enter a noun: ")
+adjective = input("enter an adjective: ")
+verb = input("enter a verb: ")
+
+print ("Here's your Mad Libs story:")
+print (" ")
+print ("Once upon a time, there was a " +noun +" who had a " +adjective +" cat. they loved to " +verb +" every day.")
